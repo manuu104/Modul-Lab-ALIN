@@ -1,3 +1,5 @@
+#Manuel Togi | 232202911 | IBDA
+
 import numpy as np
 from tabulate import tabulate
 from statistics import mean 
